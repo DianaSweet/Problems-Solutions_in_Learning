@@ -1,4 +1,4 @@
-#git拉取仓库，报错Failed to connect to github.com port 443: Timed out  
+# git拉取仓库，报错Failed to connect to github.com port 443: Timed out  
 
 今天在上传github的时候遇到了如下情况：  
 
