@@ -1,4 +1,4 @@
-#Git合并分支出现 Please enter a commit message to explain why this merge is necessary.  
+# Git合并分支出现 Please enter a commit message to explain why this merge is necessary.  
 
 Git合并分支时报错:  
 Please enter a commit message to explain why this merge is necessary.  
